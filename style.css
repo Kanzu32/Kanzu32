@@ -9,7 +9,6 @@ body {
 
 header {
 	background-color: #454545;
-	border-bottom: 10px solid #3a3a3a;
 	position: relative;
 }
 
@@ -69,4 +68,16 @@ main {
 	color: black;
 	text-align: center;
 	border-radius: 10px;
+}
+
+.links {
+	background-color: #3a3a3a;
+	height: 40px;
+	width: 100%;}
+
+.link-item {
+	color: white;
+	font: normal 18px/40px 'Lato';
+	text-decoration: none;
+	padding: 0 20px 0 20px;
 }
