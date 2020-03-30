@@ -1,0 +1,60 @@
+* {
+	padding: 0;
+	margin: 0;
+}
+
+.wrapper {
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+}
+
+.tree {
+	height: 350px;
+	width: 200px;
+	position: relative;
+	transform-origin: center bottom;
+	
+	animation-duration: 15s;
+	animation-name: skewTree;
+	animation-iteration-count: infinite;
+}
+
+.dark-side {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 0;
+	height: 0;
+	border-left: 100px solid transparent;
+	border-right: 0px solid #619b57;
+	border-bottom: 350px solid #619b57;
+}
+
+.light-side {
+	position: absolute;
+	top: 0;
+	right: 0;
+	width: 0;
+	height: 0;
+	border-left: 0px solid #74cc66;
+	border-right: 100px solid transparent;
+	border-bottom: 350px solid #74cc66;
+}
+
+@keyframes skewTree {
+	from {
+		transform: skewX(0deg);
+	}
+	33% {
+		transform: skewX(5deg);
+	}
+	66% {
+		transform: skewX(-5deg);
+	}
+	to {
+		transform: skewX(0deg);
+	}
+
+}
