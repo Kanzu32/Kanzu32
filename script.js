@@ -5,6 +5,7 @@ let projects = [
 	{name: "Timer", link: "https://kanzu32.github.io/TIMER/", img: "img/timer.png"},
 	{name: "Room Text Game", link: "https://kanzu32.github.io/roomGame/", img: "img/roomGame.png"},
 	{name: "CSS Forest", link: "https://kanzu32.github.io/cssForest/", img: "img/cssForest.png"},
+	{name: "ToDo", link: "https://kanzu32.github.io/todo/", img: "img/todo.png"},
 ];
 
 window.onload = function() {
