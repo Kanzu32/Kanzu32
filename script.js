@@ -1,11 +1,11 @@
 let main;
 
 let projects = [
-	{name: "Snake Game", link: "https://kanzu32.github.io/snakeGame/", img: "img/snakeGame.png"},
-	{name: "Timer", link: "https://kanzu32.github.io/TIMER/", img: "img/timer.png"},
-	{name: "Room Text Game", link: "https://kanzu32.github.io/roomGame/", img: "img/roomGame.png"},
-	{name: "CSS Forest", link: "https://kanzu32.github.io/cssForest/", img: "img/cssForest.png"},
-	{name: "ToDo", link: "https://kanzu32.github.io/todo/", img: "img/todo.png"},
+	{name: "Snake Game", link: "snakeGame/index.html", img: "img/snakeGame.png"},
+	{name: "Timer", link: "TIMER/index.html", img: "img/timer.png"},
+	{name: "Room Text Game", link: "roomGame/index.html", img: "img/roomGame.png"},
+	{name: "ToDo", link: "todo/index.html", img: "img/todo.png"},
+	{name: "cssDraw#1", link: "cssDraw1/index.html", img: "img/cssDraw1.png"},
 ];
 
 window.onload = function() {
