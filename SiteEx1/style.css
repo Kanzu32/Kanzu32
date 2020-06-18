@@ -1,0 +1,63 @@
+body {
+	margin: 0;
+	font-family: "Consolas";
+}
+nav {
+	height: 80px;
+	background-color: white;
+	position: relative;
+}
+#logo {
+	font-size: 60px;
+	font-weight: bold;
+	position: absolute;
+	margin: 0 auto;
+	left: 10px;
+	top: 0;
+	bottom: 0;
+}
+#item {
+	font-size: 25px;
+	font-weight: bold;
+	padding: 0 15px;
+}
+#folders {
+	position: absolute;
+	height: 80px;
+	right: 15px;
+}
+img {
+	width: 100%;
+}
+#block1, #block2, #block3 {
+	width: 30%;
+	padding: 1.25% 0;
+	text-align: center;
+}
+#block1 {
+	float: left;
+}
+#block2 {
+	position: absolute;
+	margin: 0 auto;
+	right: 0;
+	left: 0;
+}
+#block3 {
+	float: right;
+	
+}
+#buttom {
+	margin: 30px;
+	background-color: forestGreen;
+	height: 150px;
+	color: white;
+	font-size: 50px;
+	line-height: 150px;
+	text-align: center;
+	border-radius: 8;
+}
+p {
+	color: DimGray;
+	font-size: 17px;
+}
