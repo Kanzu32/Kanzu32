@@ -10,6 +10,7 @@ let projects = [
 	{name: "Slider", link: "Slider/index.html", img: "img/Slider.png"},
 	{name: "SiteEx#1", link: "SiteEx1/index.html", img: "img/SiteEx1.png"},
 	{name: "SiteEx#2", link: "SiteEx2/index.html", img: "img/SiteEx2.png"},
+	{name: "Matrix", link: "matrix/index.html", img: "img/matrix.png"}
 ];
 
 window.onload = function() {
