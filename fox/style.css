@@ -14,4 +14,7 @@ canvas {
 
 p {
 	color: white;
+	position: absolute;
+	top: 0;
+	z-index: 1000;
 }
