@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<head>
+	<meta charset="UTF-8">
+	<title>fox.</title>
+	<link rel="stylesheet" href="style.css">
+</head>
+<body>
+	<p>fox.</p>
+	<script src="js/three.js"></script>
+	<script src="https://cdn.rawgit.com/mrdoob/three.js/master/examples/js/loaders/GLTFLoader.js"></script>
+	
+	<script>
+		var scene = new THREE.Scene();
+		var camera = new THREE.PerspectiveCamera(75, window.innerWidth / window.innerHeight, 0.1, 1000);
+		var renderer = new THREE.WebGLRenderer();
+
+		renderer.setSize(window.innerWidth, window.innerHeight);
+		document.body.appendChild(renderer.domElement);
+
+		var geometry = new THREE.SphereGeometry(1, 16, 16);
+		var material = new THREE.MeshNormalMaterial();
+		var sphere = new THREE.Mesh(geometry, material);
+
+		var spotLight = new THREE.SpotLight(0xeeeece);
+		spotLight.position.set(1000, 1000, 1000);
+		scene.add(spotLight);
+
+		var ambientLight = new THREE.AmbientLight(0xeeeece);
+		spotLight.position.set(1000, 1000, 1000);
+		scene.add(ambientLight);
+
+		camera.position.z = 250;
+
+		var fox;
+
+		var loader = new THREE.GLTFLoader();
+		loader.load('3d/Fox.gltf', function (gltf) {
+			scene.add(gltf.scene);
+			fox = gltf.scene;
+			var time = setInterval(f, 100);
+			gltf.scene.rotation.y = 45;
+			gltf.scene.position.y = -100;
+			renderer.render(scene, camera);
+		}, undefined, function(error) {
+			console.log(error);
+		} );
+
+		
+
+		function f() {
+			fox.rotation.y += 1;
+			renderer.render(scene, camera);
+		};
+		
+		
+		
+	</script>
+</body>
