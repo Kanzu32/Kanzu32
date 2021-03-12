@@ -12,6 +12,7 @@ let projects = [
 	{name: "SiteEx#2", link: "SiteEx2/index.html", img: "img/SiteEx2.png"},
 	{name: "Matrix(not work on mobile)", link: "matrix/index.html", img: "img/matrix.png"},
 	{name: "HypnoSphere", link: "HypnoSphere/index.html", img: "img/hypnosphere.png"},
+	{name: "fox.", link: "fox/index.html", img: "img/fox.png"},
 ];
 
 window.onload = function() {
