@@ -4,12 +4,14 @@
 }
 
 body {
-	background-color: black;
+	position: absolute;
+}
+
+canvas {
+	position: relative;
+	top: 0;
 }
 
 p {
 	color: white;
-	font-size: 100px;
-	text-align: center;
-	position: relative;
 }
