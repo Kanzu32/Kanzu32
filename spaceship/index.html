@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<head>
+	<meta charset="UTF-8">
+	<title>spaceship</title>
+	<link rel="stylesheet" href="style.css">
+</head>
+<body>
+	<script src="js/three.js"></script>
+	<script src="https://cdn.rawgit.com/mrdoob/three.js/master/examples/js/loaders/GLTFLoader.js"></script>
+	
+	<script>
+		var scene = new THREE.Scene();
+		var camera = new THREE.PerspectiveCamera(90, window.innerWidth / window.innerHeight, 0.1, 5000);
+		var renderer = new THREE.WebGLRenderer({ antialias: true });
+
+		
+
+		renderer.setSize(window.innerWidth, window.innerHeight);
+		document.body.appendChild(renderer.domElement);
+
+		var geometry = new THREE.SphereGeometry(1, 16, 16);
+		var material = new THREE.MeshNormalMaterial();
+		var sphere = new THREE.Mesh(geometry, material);
+
+		var spotLight = new THREE.SpotLight(0xeeeece);
+		spotLight.position.set(100, 100, 100);
+		scene.add(spotLight);
+
+		var ambientLight = new THREE.AmbientLight(0xeeeece);
+		spotLight.position.set(1000, 1000, 1000);
+		scene.add(ambientLight);
+
+		camera.position.z = 10;
+
+		var skyArr = ['3d/tex/corona_ft.png', '3d/tex/corona_bk.png', '3d/tex/corona_up.png', '3d/tex/corona_dn.png', '3d/tex/corona_rt.png', '3d/tex/corona_lf.png'];
+		var MeshArr;
+
+		let geo = new THREE.BoxGeometry(1000, 1000, 1000);
+
+		texArr = skyArr.map(el => {
+			let tex = new THREE.TextureLoader().load(el);
+			return new THREE.MeshBasicMaterial({ map: tex, side: THREE.BackSide });
+		});
+
+		let skybox = new THREE.Mesh(geo, texArr);
+		scene.add(skybox);
+
+		var ship;
+
+		var loader = new THREE.GLTFLoader();
+		loader.load('3d/ship.glb', function (gltf) {
+			scene.add(gltf.scene);
+			ship = gltf.scene;
+			ship.rotation.x = 0.2;
+			ship.rotation.y = 0.8;
+			renderer.render(scene, camera);
+		}, undefined, function(error) {
+			console.log(error);
+		} );
+
+		function f(mouse, oldX, oldY) {
+			let x = mouse.clientX;
+			let y = mouse.clientY;
+			let deltaX = x-oldX;
+			let deltaY = y-oldY;
+			ship.rotation.x += deltaY/100;
+			ship.rotation.y += deltaX/100;
+			skybox.rotation.x += deltaY/100;
+			skybox.rotation.y += deltaX/100;
+			renderer.render(scene, camera);
+			return [x, y];
+		}
+
+		let oldX = window.innerWidth/2, oldY = window.innerHeight/2, fl = 0;
+
+		document.body.onmousemove = function(mouse) {
+			if (mouse.which == 1) {
+				if (fl == 0) {
+					oldX = mouse.clientX;
+					oldY = mouse.clientY;
+					fl = 1;
+				};
+
+				[oldX, oldY] = f(mouse, oldX, oldY);
+			}
+		}
+
+		document.body.onmouseup = function() {
+			fl = 0;
+		}
+
+		document.body.onwheel = function(wheel) {
+			camera.position.z += wheel.deltaY/100;
+			if (camera.position.z > 70) {
+				camera.position.z = 70;
+			};
+			if (camera.position.z < 0) {
+				camera.position.z = 0;
+			};
+			renderer.render(scene, camera);
+		}
+		
+		
+		
+	</script>
+</body>
