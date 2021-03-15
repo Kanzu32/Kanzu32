@@ -14,16 +14,17 @@ header {
 
 .logo {
 	display: inline-block;
-	padding: 20px;
-	height: 11vw;
-	width: 11vw;
+	padding: 16px;
+	height: 9vw;
+	width: 9vw;
 	background-image: url(img/kanzu.png);
-	background-size: 11vw;
+	background-size: 9vw;
 	background-repeat: no-repeat;
 	background-position: center;
 }
 
 .wrapper {
+	padding-left: 25px; 
 	display: inline-block;
 	position: absolute;
 	top: 50%;
@@ -67,12 +68,12 @@ main {
 	font: bold 20px/50px 'Lato';
 	color: black;
 	text-align: center;
-	border-radius: 10px;
+	border-radius: 0 0 10px 10px;
 }
 
 .links {
 	background-color: #3a3a3a;
-	height: 40px;
+	height: 35px;
 	width: 100%;
 	position: sticky;
 	top: 0;
@@ -81,7 +82,7 @@ main {
 
 .link-item {
 	color: white;
-	font: normal 18px/40px 'Lato';
+	font: normal 18px/35px 'Lato';
 	text-decoration: none;
 	padding: 0 20px 0 20px;
 }
