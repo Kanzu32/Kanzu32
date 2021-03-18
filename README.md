@@ -1,3 +1,3 @@
-# Kanzu32.github.io
+# it's brunch for redesign site
 
-Collection of my learn-code
+It's not ready yet
