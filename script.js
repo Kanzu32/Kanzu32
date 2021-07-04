@@ -14,6 +14,7 @@ let projects = [
 	{name: "HypnoSphere", link: "HypnoSphere/index.html", img: "img/hypnosphere.png"},
 	{name: "fox.", link: "fox/index.html", img: "img/fox.png"},
 	{name: "Spaceship", link: "spaceship/index.html", img: "img/spaceship.png"},
+	{name: "Rock Scissors Paper", link: "rps/index.html", img: "img/rps.png"},
 ];
 
 window.onload = function() {

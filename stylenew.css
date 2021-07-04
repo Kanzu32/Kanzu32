@@ -14,7 +14,7 @@ body {
 	right: 0;
 	left: 0;
 	margin: auto;
-	background-color: #282828;
+	background-color: #212121;
 	min-height: 100vh;
 	width: 75%;
 }
@@ -44,6 +44,8 @@ header {
 	left: 0;
 	right: 0;
 	margin: auto;
+	border: 8px solid #353535;
+	animation: fade-left 0.8s ease-in;
 }
 
 .head-title-wrapper {
@@ -51,6 +53,7 @@ header {
 	width: 60%;
 	float: right;
 	position: relative;
+	animation: fade-right 0.8s ease-in;
 }
 
 .text-area-wrapper {
@@ -65,6 +68,7 @@ header {
 	font-family: 'Work Sans', 'sans-serif';
 	font-size: 4vw;
 	position: static;
+	text-shadow: 4px 4px 0px black;
 }
 
 .sub-title {
@@ -72,4 +76,28 @@ header {
 	font-family: 'Roboto', 'sans-serif';
 	font-size: 1.5vw;
 	position: static;
+	text-shadow: 1px 1px 0px black;
+}
+
+.block {
+	height: 10000px;
+	width: 100%;
+}
+
+@keyframes fade-right {
+	from {
+		opacity: 0%;
+		transform: translate(3vw);}
+	to {
+		opacity: 100%;
+		transform: translate(0vw);}
+}
+
+@keyframes fade-left {
+	from {
+		opacity: 0%;
+		transform: translate(-3vw);}
+	to {
+		opacity: 100%;
+		transform: translate(0vw)%;}
 }
