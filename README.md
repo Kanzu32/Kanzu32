@@ -1,1 +1,1 @@
-# Web projects collection
+# Projects collection
