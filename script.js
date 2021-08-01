@@ -18,14 +18,23 @@ let projects = [
 
 window.onload = () => {
   let projectsBlock = document.getElementsByClassName("projects-block")[0];
+	let side;
   for (let i = 0; i < projects.length; i++)
   {
+		if (i%2 == 0)
+		{
+			side = "right";
+		} else
+		{
+			side = "left"
+		}
+
     if (projects[i].type == "img")
     {
-      projectsBlock.innerHTML += `<a class="border-wrapper" href="${projects[i].link}"><div><div class="project-name">${projects[i].name.toLowerCase()}</div><div class="project-img" style="background-image: url('${projects[i].img}')"></div></div></a>`;
+      projectsBlock.innerHTML += `<a class="border-wrapper" href="${projects[i].link}" data-aos="fade-${side}"><div><div class="project-name">${projects[i].name.toLowerCase()}</div><div class="project-img" style="background-image: url('${projects[i].img}')"></div></div></a>`;
     } else
     {
-      projectsBlock.innerHTML += `<a class="border-wrapper" href="${projects[i].link}"><div><div class="project-name">${projects[i].name.toLowerCase()}</div><div class="project-description">${projects[i].description.toLowerCase()}</div></div></a>`;
+      projectsBlock.innerHTML += `<a class="border-wrapper" href="${projects[i].link}" data-aos="fade-${side}"><div><div class="project-name">${projects[i].name.toLowerCase()}</div><div class="project-description">${projects[i].description.toLowerCase()}</div></div></a>`;
     };
   };
 }
