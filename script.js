@@ -31,10 +31,10 @@ window.onload = () => {
 
     if (projects[i].type == "img")
     {
-      projectsBlock.innerHTML += `<a class="border-wrapper" href="${projects[i].link}" data-aos="fade-${side}"><div><div class="project-name">${projects[i].name.toLowerCase()}</div><div class="project-img" style="background-image: url('${projects[i].img}')"></div></div></a>`;
+      projectsBlock.innerHTML += `<a class="border-wrapper" href="${projects[i].link}"><div><div class="project-name">${projects[i].name.toLowerCase()}</div><div class="project-img" style="background-image: url('${projects[i].img}')"></div></div></a>`;
     } else
     {
-      projectsBlock.innerHTML += `<a class="border-wrapper" href="${projects[i].link}" data-aos="fade-${side}"><div><div class="project-name">${projects[i].name.toLowerCase()}</div><div class="project-description">${projects[i].description.toLowerCase()}</div></div></a>`;
+      projectsBlock.innerHTML += `<a class="border-wrapper" href="${projects[i].link}"><div><div class="project-name">${projects[i].name.toLowerCase()}</div><div class="project-description">${projects[i].description.toLowerCase()}</div></div></a>`;
     };
   };
 }
