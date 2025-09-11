@@ -1,6 +1,5 @@
 # 👋Hello! I am **Max** (Kanzu)<br />I interested in programming and game development.
-![Static Badge](https://img.shields.io/badge/%D1%8F%D0%B7%D1%8B%D0%BA-RUS-%23%2332a850?link=https%3A%2F%2Fgithub.com%2FKanzu32%2FKanzu32%2Fblob%2Fmaster%2FREADME.ru-RU.md)
-
+[![rus](https://img.shields.io/badge/language-RUS-green.svg)](https://github.com/Kanzu32/Kanzu32/blob/master/README.ru-RU.md)
 
 ## Tech stack: Unity, C#, Godot, GDScript
 
