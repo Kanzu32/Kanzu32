@@ -1,4 +1,4 @@
-<div align="center"><h1>I am a programmer interested in game development and game design.</h1></div>
+<div align="center"><h2>I am a programmer interested in game development and game design.</h2></div>
 
 [![rus](https://img.shields.io/badge/language-RUS-blue.svg)](https://github.com/Kanzu32/Kanzu32/blob/master/README.ru-RU.md)
 [![end](https://img.shields.io/badge/language-ENG-red.svg)](https://github.com/Kanzu32/Kanzu32/blob/master/README.md)
@@ -6,7 +6,7 @@
 ![](https://komarev.com/ghpvc/?username=Kanzu32)
 
 
-<div align="center"><h2>About me</h2></div>
+<div align="center"><h3>About me</h3></div>
 <img src="assets/nichijou.png" width="500px" align="right">
 
 * **Name: Maxim Kozyavin**
@@ -18,10 +18,10 @@
 
 <br/>
 <br/>
-<div align="center"><h2>Skills</h2></div>
+<div align="center"><h3>Skills</h3></div>
 
-🕹️ Game Engines: **Unity**, Godot, Ebitengine
-
+### 🕹️ Game Engines: **Unity**, Godot, Ebitengine
+   ![end](https://img.shields.io/badge/Unity-black?style=flat-square&logo=unity)
 ⌨️ Programming languages: **C#**, C++, **Golang**, GDScript, Python, JavaScript, Java
 
 **🔧 Other: Git, MongoDB, PostgreSQL, HTML, CSS** 
