@@ -1,6 +1,8 @@
 # 👋Hello! I am **Max** (Kanzu)<br />I interested in programming and game development.
-[![rus](https://img.shields.io/badge/language-RUS-green.svg)](https://github.com/Kanzu32/Kanzu32/blob/master/README.ru-RU.md)
+[![rus](https://img.shields.io/badge/language-RUS-blue.svg)](https://github.com/Kanzu32/Kanzu32/blob/master/README.ru-RU.md)
+[![end](https://img.shields.io/badge/language-ENG-red.svg)](https://github.com/Kanzu32/Kanzu32/blob/master/README.md)
 
+[![end](https://img.shields.io/badge/Get_cv-green.svg)](https://github.com/Kanzu32/Kanzu32/blob/master/README.md)
 ## Tech stack: Unity, C#, Godot, GDScript
 
 ### Education
