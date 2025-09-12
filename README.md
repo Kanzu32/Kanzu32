@@ -20,11 +20,26 @@
 <br/>
 <div align="center"><h3>Skills</h3></div>
 
-### 🕹️ Game Engines: **Unity**, Godot, Ebitengine
-   ![end](https://img.shields.io/badge/Unity-black?style=flat-square&logo=unity)
-⌨️ Programming languages: **C#**, C++, **Golang**, GDScript, Python, JavaScript, Java
+   ![end](https://img.shields.io/badge/Unity-gray?style=flat-square&logo=unity&logoColor=white)
+   ![end](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+   ![end](https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=godotengine&logoColor=white)
+   ![end](https://img.shields.io/badge/GDScript-darkblue?style=flat-square&logo=godotengine&logoColor=white)
+   ![end](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+   ![end](https://img.shields.io/badge/Ebitengine-orange?style=flat-square&logo=go&logoColor=white)
+   ![end](https://img.shields.io/badge/Golang-00ADD8?style=flat-square&logo=go&logoColor=white)
+   ![end](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+   ![end](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+   ![end](https://img.shields.io/badge/JavaScript-c7b418?style=flat-square&logo=javascript&logoColor=white)
+   ![end](https://img.shields.io/badge/Java-black?style=flat-square&logo=openjdk&logoColor=white)
+   ![end](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+   ![end](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+   ![end](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+   ![end](https://img.shields.io/badge/CSS-663399?style=flat-square&logo=css&logoColor=white)
+   ![end](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+   ![end](https://img.shields.io/badge/Qt-41CD52?style=flat-square&logo=qt&logoColor=white)
+   ![end](https://img.shields.io/badge/Assembler-black?style=flat-square)
+   ![end](https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=arduino&logoColor=white)
 
-**🔧 Other: Git, MongoDB, PostgreSQL, HTML, CSS** 
 
 <div align="center"><h2>Education</h2></div>
 
@@ -47,5 +62,6 @@
 * Hackathon BEST Hack : Reaching the finals, [Gas-station data aggregator server](https://github.com/Kanzu32/FinalBestHack-2022-Kanzu) (2022)
 * RuCode: Finalist in the track «Algorithmic Programming» (2022)
 
+<div align="center"><h2>My projects</h2></div>
 
 [![strategy-game](https://github-readme-stats.vercel.app/api/pin/?username=kanzu32&repo=strategy-game)](https://github.com/Kanzu32/strategy-game)
