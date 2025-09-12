@@ -1,13 +1,10 @@
 [![rus](https://img.shields.io/badge/language-RUS-blue.svg)](https://github.com/Kanzu32/Kanzu32/blob/master/README.ru-RU.md)
 [![end](https://img.shields.io/badge/language-ENG-red.svg)](https://github.com/Kanzu32/Kanzu32/blob/master/README.md)‎‎
-<div align="center"><h2>I am a programmer interested in game development and game design.</h2></div>
+
 <div align="center"><h2>About me</h2></div>
 <img src="assets/nichijou.png" width="500px" align="right">
 
-<pre style="white-space: pre-wrap;word-wrap: break-word;text-align: center;!important overflow: hidden;">
-I am a programmer.
-Interested in game development, game design and computer graphics. Currently learning and building my own game with Unity.
-</pre>
+> **I am a programmer. Interested in game development, game design and computer graphics. Currently learning and building my own game with Unity.**
 
   
 * **Name: Maxim Kozyavin**
