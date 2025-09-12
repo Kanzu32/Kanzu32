@@ -1,14 +1,15 @@
-<div align="center"><h2>I am a programmer interested in game development and game design.</h2></div>
-
 [![rus](https://img.shields.io/badge/language-RUS-blue.svg)](https://github.com/Kanzu32/Kanzu32/blob/master/README.ru-RU.md)
-[![end](https://img.shields.io/badge/language-ENG-red.svg)](https://github.com/Kanzu32/Kanzu32/blob/master/README.md)
-
-![](https://komarev.com/ghpvc/?username=Kanzu32)
-
-
-<div align="center"><h3>About me</h3></div>
+[![end](https://img.shields.io/badge/language-ENG-red.svg)](https://github.com/Kanzu32/Kanzu32/blob/master/README.md)‎‎
+<div align="center"><h2>I am a programmer interested in game development and game design.</h2></div>
+<div align="center"><h2>About me</h2></div>
 <img src="assets/nichijou.png" width="500px" align="right">
 
+<pre style="white-space: pre-wrap;word-wrap: break-word;text-align: center;!important overflow: hidden;">
+I am a programmer.
+Interested in game development, game design and computer graphics. Currently learning and building my own game with Unity.
+</pre>
+
+  
 * **Name: Maxim Kozyavin**
 * **Nickname: Kanzu or Kanzu32**
 * **Location: Russia, Kursk**
@@ -18,7 +19,8 @@
 
 <br/>
 <br/>
-<div align="center"><h3>Skills</h3></div>
+
+<div align="center"><h2>Skills</h2></div>
 
    ![end](https://img.shields.io/badge/Unity-gray?style=flat-square&logo=unity&logoColor=white)
    ![end](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
@@ -48,20 +50,16 @@
 - Area of study: Information Systems and Database Design
 - Diploma Thesis: Game [Troublemakers](https://github.com/Kanzu32/strategy-game) using self-written [ECS architectural pattern](https://github.com/Kanzu32/go-ecs) in Go language.
 
-<hr/>
-
 📚 **Additional education**
 * Samsung IT Academy: “Mobile Development», [FliBook](https://github.com/Kanzu32/FliBook) (2022)
 * RuCode_5.0: «Intensive Programming: Advanced Algorithms» (2022)
 * RuCode_4.0: «Intensive Programming» (2021)
-
-<hr/>
 
 🏆**Achievements**
 * ICPC NERC Southern and Volga Russia Qualifier: 3-5 solved problems, reaching the finals (2021-2024)
 * Hackathon BEST Hack : Reaching the finals, [Gas-station data aggregator server](https://github.com/Kanzu32/FinalBestHack-2022-Kanzu) (2022)
 * RuCode: Finalist in the track «Algorithmic Programming» (2022)
 
-<div align="center"><h2>My projects</h2></div>
+<div align="center"><h3>My projects</h3></div>
 
 [![strategy-game](https://github-readme-stats.vercel.app/api/pin/?username=kanzu32&repo=strategy-game)](https://github.com/Kanzu32/strategy-game)
