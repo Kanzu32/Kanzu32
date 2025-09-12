@@ -1,4 +1,4 @@
-<div align="center"><h1>I am a programmer interested in game development.</h1></div>
+<div align="center"><h1>I am a programmer interested in game development and game design.</h1></div>
 
 [![rus](https://img.shields.io/badge/language-RUS-blue.svg)](https://github.com/Kanzu32/Kanzu32/blob/master/README.ru-RU.md)
 [![end](https://img.shields.io/badge/language-ENG-red.svg)](https://github.com/Kanzu32/Kanzu32/blob/master/README.md)
@@ -9,10 +9,10 @@
 <div align="center"><h2>About me</h2></div>
 <img src="assets/nichijou.png" width="500px" align="right">
 
-* Name: Maxim Kozyavin
-* Nickname: Kanzu or Kanzu32
-* Location: Russia, Kursk
-* Current tech stack:
+* **Name: Maxim Kozyavin**
+* **Nickname: Kanzu or Kanzu32**
+* **Location: Russia, Kursk**
+* **Current tech stack:**
 
      ![end](https://img.shields.io/badge/Unity-black?style=for-the-badge&logo=unity) ![end](https://img.shields.io/badge/C%23-purple?style=for-the-badge&logo=dotnet) ![end](https://img.shields.io/badge/Godot-white?style=for-the-badge&logo=godotengine) ![end](https://img.shields.io/badge/DGScript-white?style=for-the-badge&logo=godotengine) ![end](https://img.shields.io/badge/Git-gray?style=for-the-badge&logo=git) ![end](https://img.shields.io/badge/Aseprite-white?style=for-the-badge&logo=aseprite) ![end](https://img.shields.io/badge/Blockbench-darkblue?style=for-the-badge&logo=blockbench)
 
@@ -24,17 +24,17 @@
 
 ⌨️ Programming languages: **C#**, C++, **Golang**, GDScript, Python, JavaScript, Java
 
-🔧 Other: Git, MongoDB, PostgreSQL, 
+**🔧 Other: Git, MongoDB, PostgreSQL, HTML, CSS** 
 
 <div align="center"><h2>Education</h2></div>
 
 🎓 **Kursk State University**, Faculty of Physics, Mathematics and Computer Science (2021-2025)
 - Specialty: Software Engineering and Information Systems Management
 - Area of study: Information Systems and Database Design
-- Diploma Thesis: Game [Troublemakers](https://github.com/Kanzu32/strategy-game) using [self-written](https://github.com/Kanzu32/go-ecs) ECS architectural pattern in Go language.
+- Diploma Thesis: Game [Troublemakers](https://github.com/Kanzu32/strategy-game) using self-written [ECS architectural pattern](https://github.com/Kanzu32/go-ecs) in Go language.
 
 <hr/>
-    
+
 📚 **Additional education**
 * Samsung IT Academy: “Mobile Development», [FliBook](https://github.com/Kanzu32/FliBook) (2022)
 * RuCode_5.0: «Intensive Programming: Advanced Algorithms» (2022)
