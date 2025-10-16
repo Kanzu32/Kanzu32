@@ -55,5 +55,3 @@
 * RuCode: Finalist in the track «Algorithmic Programming» (2022)
 
 <div align="center"><h3>My projects</h3></div>
-
-[![strategy-game](https://github-readme-stats.vercel.app/api/pin/?username=kanzu32&repo=strategy-game)](https://github.com/Kanzu32/strategy-game)
