@@ -1,6 +1,3 @@
-[![rus](https://img.shields.io/badge/language-RUS-blue.svg)](https://github.com/Kanzu32/Kanzu32/blob/master/README.ru-RU.md)
-[![end](https://img.shields.io/badge/language-ENG-red.svg)](https://github.com/Kanzu32/Kanzu32/blob/master/README.md)‎‎
-
 <div align="center"><h2>About me</h2></div>
 <img src="assets/nichijou.png" width="500px" align="right">
 
