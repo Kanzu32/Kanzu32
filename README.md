@@ -53,5 +53,3 @@
 * ICPC NERC Southern and Volga Russia Qualifier: 3-5 solved problems, reaching the finals (2021-2024)
 * Hackathon BEST Hack : Reaching the finals, [Gas-station data aggregator server](https://github.com/Kanzu32/FinalBestHack-2022-Kanzu) (2022)
 * RuCode: Finalist in the track «Algorithmic Programming» (2022)
-
-<div align="center"><h3>My projects</h3></div>
