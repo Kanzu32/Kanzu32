@@ -1,5 +1,5 @@
 <a href="https://kanzu32.itch.io/"><img alt="Static Badge" src="https://img.shields.io/badge/itch.io-Kanzu?style=for-the-badge&logo=itch.io&logoColor=%23FA5C5C&labelColor=white&color=gray"></a>
-
+<a href="https://docs.google.com/document/d/1qYIQD7yCurmOa2wvbcJvhZRTqA5dK0hU3Wg1bGnxdgg/edit?usp=sharing"><img alt="Static Badge" src="https://img.shields.io/badge/CV%20(Rus)-Kanzu?style=for-the-badge&logo=googledocs&logoColor=%234285F4&labelColor=white&color=seagreen"></a>
 
 <div align="center"><h2>About me</h2></div>
 <img src="assets/nichijou.png" width="500px" align="right">
@@ -53,6 +53,7 @@
 * RuCode_4.0: «Intensive Programming» (2021)
 
 🏆**Achievements**
+* «Mini Jam 195: Forge»: 72 hours gamejam, [Quacky Business](https://kanzu32.itch.io/quacky-business), 12/47
 * ICPC NERC Southern and Volga Russia Qualifier: 3-5 solved problems, reaching the finals (2021-2024)
-* Hackathon BEST Hack : Reaching the finals, [Gas-station data aggregator server](https://github.com/Kanzu32/FinalBestHack-2022-Kanzu) (2022)
+* Hackathon BEST Hack: Reaching the finals, [Gas-station data aggregator server](https://github.com/Kanzu32/FinalBestHack-2022-Kanzu) (2022)
 * RuCode: Finalist in the track «Algorithmic Programming» (2022)
