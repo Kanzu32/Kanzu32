@@ -1,4 +1,4 @@
-<a target="_blank" rel="noopener noreferrer" href="https://kanzu32.itch.io/"><img alt="Static Badge" src="https://img.shields.io/badge/itch.io-Kanzu?style=for-the-badge&logo=itch.io&logoColor=%23FA5C5C&labelColor=white&color=gray"></a>
+<a href="https://kanzu32.itch.io/"><img alt="Static Badge" src="https://img.shields.io/badge/itch.io-Kanzu?style=for-the-badge&logo=itch.io&logoColor=%23FA5C5C&labelColor=white&color=gray"></a>
 
 
 <div align="center"><h2>About me</h2></div>
