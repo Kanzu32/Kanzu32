@@ -58,3 +58,27 @@
 * ICPC NERC Southern and Volga Russia Qualifier: 3-5 solved problems, reaching the finals (2021-2024)
 * Hackathon BEST Hack: Reaching the finals, [Gas-station data aggregator server](https://github.com/Kanzu32/FinalBestHack-2022-Kanzu) (2022)
 * RuCode: Finalist in the track «Algorithmic Programming» (2022)
+
+<div align="center"><h2>Projects</h2></div>
+
+## ![Quacky Business (Itch.io)](https://kanzu32.itch.io/quacky-business)
+Strategic shopkeeper game made in 72 hours in Unity where player needs to find a balance between profit and the war of heroes and monsters by selling the strangest weapons in the world!
+
+| <img width="630" height="500" alt="quacky business itch" src="https://github.com/user-attachments/assets/ccfa6e1c-fd2e-4f02-a669-8dfb5f61bd47" /> | <img width="1127" height="559" alt="SZsci9" src="https://github.com/user-attachments/assets/ffda3e5f-3b47-4dfa-a39f-dc25306cd09a" /> |
+| --- | --- |
+| <img width="1005" height="633" alt="acKR+0" src="https://github.com/user-attachments/assets/871a28d2-4340-40a1-9ea6-9a06d57fd927" /> | <img width="1128" height="560" alt="YZSpNT" src="https://github.com/user-attachments/assets/27d114c8-c25a-4723-8668-a8c205259505" /> |
+
+## ![Troublemakers! / Смутьяны! (GitHub)](https://github.com/Kanzu32/strategy-game)
+Client-server turn-based strategy game "Troublemakers" made in Go and Ebitengine. Uses [self-writen implementation](https://github.com/Kanzu32/go-ecs) of the Enity-Component-System architectural pattern.
+
+| <img src="https://github.com/Kanzu32/strategy-game/blob/main/readme/strategy-game-3.png"> |
+| --- |
+
+## ![Pacman (GitHub)](https://github.com/Kanzu32/pacman)
+Clone of the game PacMan written in C++ and Qt. Has two players mode, difficulty selection, music player and other features.
+
+| <img src="https://github.com/Kanzu32/pacman/blob/main/readme/pacman-1.png"> | <img src="https://github.com/Kanzu32/pacman/blob/main/readme/pacman-2.png"> |
+| --- | --- |
+| <img src="https://github.com/Kanzu32/pacman/blob/main/readme/pacman-5.png"> | <img src="https://github.com/Kanzu32/pacman/blob/main/readme/pacman-4.png"> |
+
+# 👇Check over projects down bellow and in Repositories!
