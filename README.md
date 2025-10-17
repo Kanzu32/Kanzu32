@@ -1,5 +1,6 @@
 <a href="https://kanzu32.itch.io/"><img alt="Static Badge" src="https://img.shields.io/badge/itch.io-Kanzu?style=for-the-badge&logo=itch.io&logoColor=%23FA5C5C&labelColor=white&color=gray"></a>
 <a href="https://docs.google.com/document/d/1qYIQD7yCurmOa2wvbcJvhZRTqA5dK0hU3Wg1bGnxdgg/edit?usp=sharing"><img alt="Static Badge" src="https://img.shields.io/badge/CV%20(Rus)-Kanzu?style=for-the-badge&logo=googledocs&logoColor=%234285F4&labelColor=white&color=seagreen"></a>
+<a href="https://kursk.hh.ru/resume/2ad81e01ff0f3c6ca10039ed1f7454664b6a69"><img alt="Static Badge" src="https://img.shields.io/badge/hh.ru%20resume-Kanzu?style=for-the-badge&logoColor=%234285F4&labelColor=white&color=blue"></a>
 
 <div align="center"><h2>About me</h2></div>
 <img src="assets/nichijou.png" width="500px" align="right">
