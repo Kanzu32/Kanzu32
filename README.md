@@ -69,16 +69,11 @@
 | --- | --- |
 | <img width="1005" height="633" alt="acKR+0" src="https://github.com/user-attachments/assets/871a28d2-4340-40a1-9ea6-9a06d57fd927" /> | <img width="1127" height="559" alt="SZsci9" src="https://github.com/user-attachments/assets/ffda3e5f-3b47-4dfa-a39f-dc25306cd09a" /> |
 
+
 | **<h3>[Myltiplayer shooter (GitHub)](https://github.com/Kanzu32/2D-Multiplayer-Shooter)</h3> <br> Client-hosted game made with <ins>*Unity*</ins>, <ins>*Netcode for GameObjects*</ins> and <ins>*Relay*</ins>.** | <img src="https://github.com/user-attachments/assets/d98fb350-91ea-4b85-aa5e-74ed48188211"> |
 | :---: | --- |
 | **<h3>[Third person Action Platformer (GitHub)](https://github.com/Kanzu32/3D-Platformer)</h3> <br> Third person platformer with enemies, combo-attacks and guard mechanics. Made using <ins>*Unity*</ins>.** | <img src="https://github.com/user-attachments/assets/3462fe14-5c3b-41c3-b065-6ab5de3a7fb2"> |
 | **<h3>[Troublemakers! / Смутьяны! (GitHub)](https://github.com/Kanzu32/strategy-game)</h3> <br> Client-server turn-based strategy game "Troublemakers" made in <ins>*Go*</ins> and <ins>*Ebitengine*</ins>. Uses [self-writen implementation](https://github.com/Kanzu32/go-ecs) of the Enity-Component-System architectural pattern.** | <img src="https://github.com/user-attachments/assets/12a54472-a0a3-4eff-9977-c491a189c3d0"> |
-
-## [Pacman (GitHub)](https://github.com/Kanzu32/pacman)
-Clone of the game PacMan written in C++ and Qt. Has two players mode, difficulty selection, music player and other features.
-
-| <img src="https://github.com/Kanzu32/pacman/blob/main/readme/pacman-1.png"> | <img src="https://github.com/Kanzu32/pacman/blob/main/readme/pacman-2.png"> |
-| --- | --- |
-| <img src="https://github.com/Kanzu32/pacman/blob/main/readme/pacman-5.png"> | <img src="https://github.com/Kanzu32/pacman/blob/main/readme/pacman-4.png"> |
+| [Pacman (GitHub)](https://github.com/Kanzu32/pacman) <br> Clone of the PacMan written in <ins>*C++*</ins> and <ins>*Qt*</ins>. Has two players and solo mode, difficulty levels, music player, leaderboards, controll settings, levels in txt format and other features. | <img src="https://github.com/Kanzu32/pacman/blob/main/readme/pacman-2.png"> |
 
 # 👇Check out other repositories for more!
