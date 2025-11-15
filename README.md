@@ -5,7 +5,7 @@
 <div align="center"><h2>About me</h2></div>
 <img src="assets/nichijou.png" width="500px" align="right">
 
-> **I am a programmer. Interested in game development, game design and computer graphics. Currently learning and building my own game with Unity.**
+> **I am a programmer. Interested in game development, game design and computer graphics.**
 
   
 * **Name: Maxim Kozyavin**
@@ -74,5 +74,6 @@
 | **<h3>[Third person Action Platformer (GitHub)](https://github.com/Kanzu32/3D-Platformer)</h3> <br> Third person platformer with enemies, combo-attacks and guard mechanics. Made using <ins>*Unity*</ins>.** | <img src="https://github.com/user-attachments/assets/3462fe14-5c3b-41c3-b065-6ab5de3a7fb2"> |
 | **<h3>[Troublemakers! / Смутьяны! (GitHub)](https://github.com/Kanzu32/strategy-game)</h3> <br> Client-server turn-based strategy game "Troublemakers" made in <ins>*Go*</ins> and <ins>*Ebitengine*</ins>. Uses [self-writen implementation](https://github.com/Kanzu32/go-ecs) of the Enity-Component-System architectural pattern.** | <img src="https://github.com/user-attachments/assets/12a54472-a0a3-4eff-9977-c491a189c3d0"> |
 | **<h3>[Pacman (GitHub)](https://github.com/Kanzu32/pacman)</h3> <br> Clone of the PacMan written in <ins>*C++*</ins> and <ins>*Qt*</ins>. Has two players and solo mode, difficulty levels, music player, leaderboards, controll settings, levels in txt format and other features.** | <img src="https://github.com/Kanzu32/pacman/blob/main/readme/pacman-2.png"> |
+| <h3>And more projects made with <ins>*Godot*</ins>, <ins>*BlockBench*</ins>, <ins>*Unity*</ins> and other tools.</h3>| <img src="https://github.com/user-attachments/assets/54798bd3-cefe-4cea-b117-fa6be1dd85cb"> |
 
-# 👇Check out other repositories for more!
+# 👇Check all repositories for more!
