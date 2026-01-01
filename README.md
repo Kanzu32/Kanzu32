@@ -1,11 +1,16 @@
+
+
 <a href="https://kanzu32.itch.io/"><img alt="Static Badge" src="https://img.shields.io/badge/itch.io-Kanzu?style=for-the-badge&logo=itch.io&logoColor=%23FA5C5C&labelColor=white&color=gray"></a>
 <a href="https://docs.google.com/document/d/1qYIQD7yCurmOa2wvbcJvhZRTqA5dK0hU3Wg1bGnxdgg/edit?usp=sharing"><img alt="Static Badge" src="https://img.shields.io/badge/CV%20(Rus)-Kanzu?style=for-the-badge&logo=googledocs&logoColor=%234285F4&labelColor=white&color=seagreen"></a>
 <a href="https://kursk.hh.ru/resume/2ad81e01ff0f3c6ca10039ed1f7454664b6a69"><img alt="Static Badge" src="https://img.shields.io/badge/hh.ru%20resume-Kanzu?style=for-the-badge&logoColor=%234285F4&labelColor=white&color=blue"></a>
 
-<div align="center"><h2>About me</h2></div>
-<img src="assets/nichijou.png" width="500px" align="right">
+<details open>
+  <summary><b>About me</b></summary>
+  <br/>
 
-> **I am a programmer. Interested in game development, game design and computer graphics.**
+  <img src="assets/nichijou.png" width="500px" align="right">
+
+> **I am a programmer. Interested in game development, game design and computer graphics. Creating my own games here and on itch.io. For gamejams too!**
 
   
 * **Name: Maxim Kozyavin**
@@ -14,13 +19,15 @@
 * **Current tech stack:**
 
      ![end](https://img.shields.io/badge/Unity-black?style=for-the-badge&logo=unity) ![end](https://img.shields.io/badge/C%23-purple?style=for-the-badge&logo=dotnet) ![end](https://img.shields.io/badge/Godot-white?style=for-the-badge&logo=godotengine) ![end](https://img.shields.io/badge/DGScript-white?style=for-the-badge&logo=godotengine) ![end](https://img.shields.io/badge/Git-gray?style=for-the-badge&logo=git) ![end](https://img.shields.io/badge/Aseprite-white?style=for-the-badge&logo=aseprite) ![end](https://img.shields.io/badge/Blockbench-darkblue?style=for-the-badge&logo=blockbench)
+</details>
 
-<br/>
-<br/>
 
-<div align="center"><h2>Skills</h2></div>
 
-   ![end](https://img.shields.io/badge/Unity-gray?style=flat-square&logo=unity&logoColor=white)
+<details open>
+  <summary><b>Skills</b></summary>
+  <br/>
+
+  ![end](https://img.shields.io/badge/Unity-gray?style=flat-square&logo=unity&logoColor=white)
    ![end](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
    ![end](https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=godotengine&logoColor=white)
    ![end](https://img.shields.io/badge/GDScript-darkblue?style=flat-square&logo=godotengine&logoColor=white)
@@ -39,10 +46,23 @@
    ![end](https://img.shields.io/badge/Qt-41CD52?style=flat-square&logo=qt&logoColor=white)
    ![end](https://img.shields.io/badge/Assembler-black?style=flat-square)
    ![end](https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=arduino&logoColor=white)
+</details>
 
+<details>
+  <summary><b>Achievements</b></summary>
+  <br/>
+  
+* «Mini Jam 200: Freedom»: 120 hours gamejam, [Top 5 Rocks I Want To Find While Digging Around](https://kanzu32.itch.io/top-5-rocks-i-want-to-find-while-digging-around), 56/110
+* «Mini Jam 195: Forge»: 72 hours gamejam, [Quacky Business](https://kanzu32.itch.io/quacky-business), 12/47
+* ICPC NERC Southern and Volga Russia Qualifier: 3-5 solved problems, reaching the finals (2021-2024)
+* Hackathon BEST Hack: Reaching the finals, [Gas-station data aggregator server](https://github.com/Kanzu32/FinalBestHack-2022-Kanzu) (2022)
+* RuCode: Finalist in the track «Algorithmic Programming» (2022)
+</details>
 
-<div align="center"><h2>Education</h2></div>
-
+<details>
+  <summary><b>Education</b></summary>
+  <br/>
+  
 🎓 **Kursk State University**, Faculty of Physics, Mathematics and Computer Science (2021-2025)
 - Specialty: Software Engineering and Information Systems Management
 - Area of study: Information Systems and Database Design
@@ -52,16 +72,12 @@
 * Samsung IT Academy: “Mobile Development», [FliBook](https://github.com/Kanzu32/FliBook) (2022)
 * RuCode_5.0: «Intensive Programming: Advanced Algorithms» (2022)
 * RuCode_4.0: «Intensive Programming» (2021)
+</details>
 
-🏆**Achievements**
-* «Mini Jam 195: Forge»: 72 hours gamejam, [Quacky Business](https://kanzu32.itch.io/quacky-business), 12/47
-* ICPC NERC Southern and Volga Russia Qualifier: 3-5 solved problems, reaching the finals (2021-2024)
-* Hackathon BEST Hack: Reaching the finals, [Gas-station data aggregator server](https://github.com/Kanzu32/FinalBestHack-2022-Kanzu) (2022)
-* RuCode: Finalist in the track «Algorithmic Programming» (2022)
+<details open>
+  <summary><b>Projects</b></summary>
 
-<div align="center"><h2>Projects</h2></div>
-
-## [Quacky Business (Itch.io)](https://kanzu32.itch.io/quacky-business)
+  ## [Quacky Business (Itch.io)](https://kanzu32.itch.io/quacky-business)
 
 **Strategic shopkeeper game made in 72 hours with <ins>*Unity*</ins> where player needs to find a balance between profit and the war of heroes and monsters by selling the strangest weapons in the world!**
 
@@ -76,4 +92,4 @@
 | **<h3>[Pacman (GitHub)](https://github.com/Kanzu32/pacman)</h3> Clone of the PacMan written in <ins>*C++*</ins> and <ins>*Qt*</ins>. Has two players and solo mode, difficulty levels, music player, leaderboards, controll settings, levels in txt format and other features.** | <img src="https://github.com/Kanzu32/pacman/blob/main/readme/pacman-2.png"> |
 | <h3>And more projects made with <ins>*Godot*</ins>, <ins>*BlockBench*</ins>, <ins>*Unity*</ins> and other tools.</h3>| <img src="https://github.com/user-attachments/assets/54798bd3-cefe-4cea-b117-fa6be1dd85cb"> |
 
-# 👇Check all repositories for more!
+</details>
