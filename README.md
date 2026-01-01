@@ -10,7 +10,7 @@
 
   <img src="assets/nichijou.png" width="500px" align="right">
 
-> **I am a programmer. Interested in game development, game design and computer graphics. Creating my own games here and on itch.io. For gamejams too!**
+> **I am a programmer. Interested in game development, game design and computer graphics. Creating my own games here and on itch.io. For Game Jams too!**
 
   
 * **Name: Maxim Kozyavin**
@@ -20,7 +20,6 @@
 
      ![end](https://img.shields.io/badge/Unity-black?style=for-the-badge&logo=unity) ![end](https://img.shields.io/badge/C%23-purple?style=for-the-badge&logo=dotnet) ![end](https://img.shields.io/badge/Godot-white?style=for-the-badge&logo=godotengine) ![end](https://img.shields.io/badge/DGScript-white?style=for-the-badge&logo=godotengine) ![end](https://img.shields.io/badge/Git-gray?style=for-the-badge&logo=git) ![end](https://img.shields.io/badge/Aseprite-white?style=for-the-badge&logo=aseprite) ![end](https://img.shields.io/badge/Blockbench-darkblue?style=for-the-badge&logo=blockbench)
 </details>
-
 
 
 <details open>
@@ -77,13 +76,20 @@
 <details open>
   <summary><b>Projects</b></summary>
 
-  ## [Quacky Business (Itch.io)](https://kanzu32.itch.io/quacky-business)
+  ## [Top 5 Rocks I Want To Find While Digging Around (Itch.io)](https://kanzu32.itch.io/top-5-rocks-i-want-to-find-while-digging-around)
 
+**Surreal absurd optimistic pessimistic phantasmagoric chaotic stroy about rocks game made in 120 hours with <ins>*Unity*</ins>. It's a Minesweeper-like game where you need to dig to find rocks from your wishlist and hang out with your friends showing them your rocks!!**
+
+| <img width="630" height="500" alt="logo" src="https://github.com/user-attachments/assets/1baa4c76-96b5-422c-80b0-5454778bef8d" /> | <img src="https://github.com/user-attachments/assets/2187b7fe-6ea0-4bc2-a72f-7699663a9915" /> |
+| --- | --- |
+
+  ## [Quacky Business (Itch.io)](https://kanzu32.itch.io/quacky-business)
+  
 **Strategic shopkeeper game made in 72 hours with <ins>*Unity*</ins> where player needs to find a balance between profit and the war of heroes and monsters by selling the strangest weapons in the world!**
 
 | <img width="630" height="500" alt="quacky business itch" src="https://github.com/user-attachments/assets/ccfa6e1c-fd2e-4f02-a669-8dfb5f61bd47" /> | <img src="https://github.com/user-attachments/assets/670f6927-ed96-40ea-bc3d-89e621a8c745" /> |
 | --- | --- |
-| <img width="1005" height="633" alt="acKR+0" src="https://github.com/user-attachments/assets/871a28d2-4340-40a1-9ea6-9a06d57fd927" /> | <img width="1127" height="559" alt="SZsci9" src="https://github.com/user-attachments/assets/ffda3e5f-3b47-4dfa-a39f-dc25306cd09a" /> |
+
 
 | **<h3>[Multiplayer shooter (GitHub)](https://github.com/Kanzu32/2D-Multiplayer-Shooter)</h3> Client-hosted game made with <ins>*Unity*</ins>, <ins>*Netcode for GameObjects*</ins> and <ins>*Relay*</ins>.** | <img src="https://github.com/user-attachments/assets/d98fb350-91ea-4b85-aa5e-74ed48188211"> |
 | :---: | --- |
