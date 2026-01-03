@@ -10,7 +10,7 @@
 
   <img src="assets/nichijou.png" width="500px" align="right">
 
-> **I am a programmer. Interested in game development, game design and computer graphics. Creating my own games here and on itch.io. For Game Jams too!**
+> **I am a programmer. Interested in Game Development, Game Design, Software Architecture, Data Structures and Computer Graphics. Creating my own games here and on itch.io. For Game Jams too!**
 
   
 * **Name: Maxim Kozyavin**
@@ -78,7 +78,7 @@
 
   ## [Top 5 Rocks I Want To Find While Digging Around (Itch.io)](https://kanzu32.itch.io/top-5-rocks-i-want-to-find-while-digging-around)
 
-**Surreal absurd optimistic pessimistic phantasmagoric chaotic stroy about rocks game made in 120 hours with <ins>*Unity*</ins>. It's a Minesweeper-like game where you need to dig to find rocks from your wishlist and hang out with your friends showing them your rocks!!**
+**Surreal absurd optimistic pessimistic phantasmagoric chaotic story about rocks made in 120 hours with <ins>*Unity*</ins>. It's a Minesweeper-like game where you need to dig to find rocks from your wishlist and hang out with your friends showing them your rocks!!**
 
 | <img width="630" height="500" alt="logo" src="https://github.com/user-attachments/assets/1baa4c76-96b5-422c-80b0-5454778bef8d" /> | <img src="https://github.com/user-attachments/assets/2187b7fe-6ea0-4bc2-a72f-7699663a9915" /> |
 | --- | --- |
