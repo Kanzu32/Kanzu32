@@ -6,19 +6,15 @@
 <a href="https://hh.ru/resume/2ad81e01ff0f3c6ca10039ed1f7454664b6a69"><img alt="hh.ru" src="https://img.shields.io/badge/hh.ru-Kanzu?style=for-the-badge&color=%23ff0002"></a>
 <a href="https://docs.google.com/document/d/1qYIQD7yCurmOa2wvbcJvhZRTqA5dK0hU3Wg1bGnxdgg/edit?usp=sharing"><img alt="CV (RUS)" src="https://img.shields.io/badge/CV%20(Rus)-Kanzu?style=for-the-badge&logo=googledocs&logoColor=%234285F4&labelColor=white&color=seagreen"></a>
 </div>
-
 <details open>
   <summary><b>About me</b></summary>
   <br/>
 
-  <img src="assets/nichijou.png" width="500px" align="right">
+  <img src="assets/nichijou.png" width="450px" align="right">
 
 > **I am a programmer. Interested in Game Development, Game Design, Software Architecture, Data Structures and Computer Graphics. Creating my own games here and on itch.io. For Game Jams too!**
 
-  
-* **Name: Maxim Kozyavin**
-* **Nickname: Kanzu or Kanzu32**
-* **Location: Russia, Kursk**
+* **Name: Kanzu, Kanzu32 or Maxim**
 * **Current tech stack:**
 
      ![end](https://img.shields.io/badge/Unity-black?style=for-the-badge&logo=unity) ![end](https://img.shields.io/badge/C%23-purple?style=for-the-badge&logo=dotnet) ![end](https://img.shields.io/badge/Godot-white?style=for-the-badge&logo=godotengine) ![end](https://img.shields.io/badge/DGScript-white?style=for-the-badge&logo=godotengine) ![end](https://img.shields.io/badge/Git-gray?style=for-the-badge&logo=git) ![end](https://img.shields.io/badge/Aseprite-white?style=for-the-badge&logo=aseprite) ![end](https://img.shields.io/badge/Blockbench-darkblue?style=for-the-badge&logo=blockbench)
@@ -26,8 +22,7 @@
 
 
 <details open>
-  <summary><b>Skills</b></summary>
-  <br/>
+  <summary><b>Skills</b></summary>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
   ![end](https://img.shields.io/badge/Unity-gray?style=flat-square&logo=unity&logoColor=white)
    ![end](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
