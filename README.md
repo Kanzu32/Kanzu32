@@ -1,8 +1,11 @@
-
-
-<a href="https://kanzu32.itch.io/"><img alt="Static Badge" src="https://img.shields.io/badge/itch.io-Kanzu?style=for-the-badge&logo=itch.io&logoColor=%23FA5C5C&labelColor=white&color=gray"></a>
-<a href="https://docs.google.com/document/d/1qYIQD7yCurmOa2wvbcJvhZRTqA5dK0hU3Wg1bGnxdgg/edit?usp=sharing"><img alt="Static Badge" src="https://img.shields.io/badge/CV%20(Rus)-Kanzu?style=for-the-badge&logo=googledocs&logoColor=%234285F4&labelColor=white&color=seagreen"></a>
-<a href="https://kursk.hh.ru/resume/2ad81e01ff0f3c6ca10039ed1f7454664b6a69"><img alt="Static Badge" src="https://img.shields.io/badge/hh.ru%20resume-Kanzu?style=for-the-badge&logoColor=%234285F4&labelColor=white&color=blue"></a>
+<div align="left">
+<a href="https://github.com/Kanzu32"><img alt="GitHub" src="https://img.shields.io/badge/github-Kanzu?style=for-the-badge&logo=github&labelColor=dimgray&color=gray"></a>
+<a href="https://kanzu32.itch.io/"><img alt="Itch.io" src="https://img.shields.io/badge/itch.io-Kanzu?style=for-the-badge&logo=itch.io&logoColor=%23FA5C5C&labelColor=white&color=gray"></a>
+<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+<a href="https://www.linkedin.com/in/maxim-kozyavin-28647339b/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Kanzu?style=for-the-badge&logoColor=%234285F4&labelColor=white&color=blue"></a>
+<a href="https://hh.ru/resume/2ad81e01ff0f3c6ca10039ed1f7454664b6a69"><img alt="hh.ru" src="https://img.shields.io/badge/hh.ru-Kanzu?style=for-the-badge&color=%23ff0002"></a>
+<a href="https://docs.google.com/document/d/1qYIQD7yCurmOa2wvbcJvhZRTqA5dK0hU3Wg1bGnxdgg/edit?usp=sharing"><img alt="CV (RUS)" src="https://img.shields.io/badge/CV%20(Rus)-Kanzu?style=for-the-badge&logo=googledocs&logoColor=%234285F4&labelColor=white&color=seagreen"></a>
+</div>
 
 <details open>
   <summary><b>About me</b></summary>
@@ -80,14 +83,14 @@
 
 **Surreal absurd optimistic pessimistic phantasmagoric chaotic story about rocks made in 120 hours with <ins>*Unity*</ins>. It's a Minesweeper-like game where you need to dig to find rocks from your wishlist and hang out with your friends showing them your rocks!!**
 
-| <img width="630" height="500" alt="logo" src="https://github.com/user-attachments/assets/1baa4c76-96b5-422c-80b0-5454778bef8d" /> | <img src="https://github.com/user-attachments/assets/2187b7fe-6ea0-4bc2-a72f-7699663a9915" /> |
+| [<img width="630" height="500" alt="logo" src="https://github.com/user-attachments/assets/1baa4c76-96b5-422c-80b0-5454778bef8d" />](https://kanzu32.itch.io/top-5-rocks-i-want-to-find-while-digging-around) | <img src="https://github.com/user-attachments/assets/2187b7fe-6ea0-4bc2-a72f-7699663a9915" /> |
 | --- | --- |
 
   ## [Quacky Business (Itch.io)](https://kanzu32.itch.io/quacky-business)
   
 **Strategic shopkeeper game made in 72 hours with <ins>*Unity*</ins> where player needs to find a balance between profit and the war of heroes and monsters by selling the strangest weapons in the world!**
 
-| <img width="630" height="500" alt="quacky business itch" src="https://github.com/user-attachments/assets/ccfa6e1c-fd2e-4f02-a669-8dfb5f61bd47" /> | <img src="https://github.com/user-attachments/assets/670f6927-ed96-40ea-bc3d-89e621a8c745" /> |
+| [<img width="630" height="500" alt="quacky business itch" src="https://github.com/user-attachments/assets/ccfa6e1c-fd2e-4f02-a669-8dfb5f61bd47" />](https://kanzu32.itch.io/quacky-business) | <img src="https://github.com/user-attachments/assets/670f6927-ed96-40ea-bc3d-89e621a8c745" /> |
 | --- | --- |
 
 
