@@ -1,7 +1,7 @@
-<div align="left">
+<div align="center">
 <a href="https://github.com/Kanzu32"><img alt="GitHub" src="https://img.shields.io/badge/github-Kanzu?style=for-the-badge&logo=github&labelColor=dimgray&color=gray"></a>
 <a href="https://kanzu32.itch.io/"><img alt="Itch.io" src="https://img.shields.io/badge/itch.io-Kanzu?style=for-the-badge&logo=itch.io&logoColor=%23FA5C5C&labelColor=white&color=gray"></a>
-<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+  
 <a href="https://www.linkedin.com/in/maxim-kozyavin-28647339b/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Kanzu?style=for-the-badge&logoColor=%234285F4&labelColor=white&color=blue"></a>
 <a href="https://hh.ru/resume/2ad81e01ff0f3c6ca10039ed1f7454664b6a69"><img alt="hh.ru" src="https://img.shields.io/badge/hh.ru-Kanzu?style=for-the-badge&color=%23ff0002"></a>
 <a href="https://docs.google.com/document/d/1qYIQD7yCurmOa2wvbcJvhZRTqA5dK0hU3Wg1bGnxdgg/edit?usp=sharing"><img alt="CV (RUS)" src="https://img.shields.io/badge/CV%20(Rus)-Kanzu?style=for-the-badge&logo=googledocs&logoColor=%234285F4&labelColor=white&color=seagreen"></a>
