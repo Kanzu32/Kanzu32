@@ -48,8 +48,8 @@
   <summary><b>Achievements</b></summary>
   <br/>
   
-* «Mini Jam 200: Freedom»: 120 hours gamejam, [Top 5 Rocks I Want To Find While Digging Around](https://kanzu32.itch.io/top-5-rocks-i-want-to-find-while-digging-around), 56/110
-* «Mini Jam 195: Forge»: 72 hours gamejam, [Quacky Business](https://kanzu32.itch.io/quacky-business), 12/47
+* «Mini Jam 200: Freedom»: 120 hours gamejam, [Top 5 Rocks I Want To Find While Digging Around](https://kanzu32.itch.io/top-5-rocks-i-want-to-find-while-digging-around), 56/415
+* «Mini Jam 195: Forge»: 72 hours gamejam, [Quacky Business](https://kanzu32.itch.io/quacky-business), 12/180
 * ICPC NERC Southern and Volga Russia Qualifier: 3-5 solved problems, reaching the finals (2021-2024)
 * Hackathon BEST Hack: Reaching the finals, [Gas-station data aggregator server](https://github.com/Kanzu32/FinalBestHack-2022-Kanzu) (2022)
 * RuCode: Finalist in the track «Algorithmic Programming» (2022)
