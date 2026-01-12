@@ -16,7 +16,8 @@
 * **Name: Kanzu, Kanzu32 or Maxim**
 * **Current tech stack:**
 
-     ![end](https://img.shields.io/badge/Unity-black?style=for-the-badge&logo=unity) ![end](https://img.shields.io/badge/C%23-purple?style=for-the-badge&logo=dotnet) ![end](https://img.shields.io/badge/Godot-white?style=for-the-badge&logo=godotengine) ![end](https://img.shields.io/badge/DGScript-white?style=for-the-badge&logo=godotengine) ![end](https://img.shields.io/badge/Git-gray?style=for-the-badge&logo=git) ![end](https://img.shields.io/badge/Aseprite-white?style=for-the-badge&logo=aseprite) ![end](https://img.shields.io/badge/Blockbench-darkblue?style=for-the-badge&logo=blockbench)
+     ![unity](https://img.shields.io/badge/Unity-black?style=for-the-badge&logo=unity) ![c#](https://img.shields.io/badge/C%23-purple?style=for-the-badge&logo=dotnet) ![godot](https://img.shields.io/badge/Godot-white?style=for-the-badge&logo=godotengine) ![gdscript](https://img.shields.io/badge/DGScript-white?style=for-the-badge&logo=godotengine) ![git](https://img.shields.io/badge/Git-gray?style=for-the-badge&logo=git) ![aseprite](https://img.shields.io/badge/Aseprite-white?style=for-the-badge&logo=aseprite) ![blockbench](https://img.shields.io/badge/Blockbench-darkblue?style=for-the-badge&logo=blockbench) ![obsidian](https://img.shields.io/badge/obsidian-%237C3AED?style=for-the-badge&logo=obsidian)
+
 </details>
 
 
