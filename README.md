@@ -11,7 +11,7 @@
 
   <img src="assets/nichijou.png" width="450px" align="right">
 
-> **I am a programmer. Interested in Game Development, Game Design, Software Architecture, Data Structures and Computer Graphics. Creating my own games here and on itch.io. For Game Jams too!**
+> **I am a programmer. Interested in Game Development, Game Design, Software Architecture, Data Structures and Computer Graphics. Creating games in my own studio, making personal game projects here and on itch.io. For Game Jams too!**
 
 * **Name: Kanzu, Kanzu32 or Maxim**
 * **Current tech stack:**
