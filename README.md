@@ -2,8 +2,8 @@
 <a href="https://github.com/Kanzu32"><img alt="GitHub" src="https://img.shields.io/badge/github-Kanzu?style=for-the-badge&logo=github&labelColor=dimgray&color=gray"></a>
 <a href="https://kanzu32.itch.io/"><img alt="Itch.io" src="https://img.shields.io/badge/itch.io-Kanzu?style=for-the-badge&logo=itch.io&logoColor=%23FA5C5C&labelColor=white&color=gray"></a>
 &nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/kanzu32"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Kanzu?style=for-the-badge&logoColor=%234285F4&labelColor=white&color=blue"></a>
-<a href="https://hh.ru/resume/2ad81e01ff0f3c6ca10039ed1f7454664b6a69"><img alt="hh.ru" src="https://img.shields.io/badge/hh.ru-Kanzu?style=for-the-badge&color=%23ff0002"></a>
+<!-- <a href="https://www.linkedin.com/in/kanzu32"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Kanzu?style=for-the-badge&logoColor=%234285F4&labelColor=white&color=blue"></a>
+<a href="https://hh.ru/resume/2ad81e01ff0f3c6ca10039ed1f7454664b6a69"><img alt="hh.ru" src="https://img.shields.io/badge/hh.ru-Kanzu?style=for-the-badge&color=%23ff0002"></a> -->
 </div>
 <details open>
   <summary><b>About me</b></summary>
@@ -11,7 +11,7 @@
 
   <img src="assets/nichijou.png" width="450px" align="right">
 
-> **I am a programmer. Interested in Game Development, Game Design, Software Architecture, Data Structures and Computer Graphics. Creating games in my own studio, making personal game projects here and on itch.io. For Game Jams too!**
+> **Full-time Python developer. Interested in Game Development, Game Design, Software Architecture, Data Structures and Computer Graphics. Creating games on itch.io. For Game Jams too!**
 
 * **Name: Kanzu, Kanzu32 or Maxim**
 * **Current tech stack:**
