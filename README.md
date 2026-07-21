@@ -11,19 +11,21 @@
 
   <img src="assets/nichijou.png" width="450px" align="right">
 
-> **Full-time Python developer. Interested in Game Development, Game Design, Software Architecture, Data Structures and Computer Graphics. Creating games on itch.io. For Game Jams too!**
+> **Full-time Python developer (Backend, AI).  Interested in Game Development, Game Design, Software Architecture, Data Structures and Computer Graphics. Creating games on itch.io. For Game Jams too!**
 
 * **Name: Kanzu, Kanzu32 or Maxim**
 * **Current tech stack:**
 
-     ![unity](https://img.shields.io/badge/Unity-black?style=for-the-badge&logo=unity) ![c#](https://img.shields.io/badge/C%23-purple?style=for-the-badge&logo=dotnet) ![godot](https://img.shields.io/badge/Godot-white?style=for-the-badge&logo=godotengine) ![gdscript](https://img.shields.io/badge/DGScript-white?style=for-the-badge&logo=godotengine) ![git](https://img.shields.io/badge/Git-gray?style=for-the-badge&logo=git) ![aseprite](https://img.shields.io/badge/Aseprite-white?style=for-the-badge&logo=aseprite) ![blockbench](https://img.shields.io/badge/Blockbench-darkblue?style=for-the-badge&logo=blockbench) ![obsidian](https://img.shields.io/badge/obsidian-%237C3AED?style=for-the-badge&logo=obsidian)
+![Python](https://img.shields.io/badge/python-%233776AB?style=for-the-badge&logo=python&logoColor=white) ![end](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![Static Badge](https://img.shields.io/badge/llamacpp-gray?style=for-the-badge&logoColor=white) ![godot](https://img.shields.io/badge/Godot-white?style=for-the-badge&logo=godotengine) ![gdscript](https://img.shields.io/badge/DGScript-white?style=for-the-badge&logo=godotengine) ![git](https://img.shields.io/badge/Git-gray?style=for-the-badge&logo=git) ![aseprite](https://img.shields.io/badge/Aseprite-white?style=for-the-badge&logo=aseprite) ![blockbench](https://img.shields.io/badge/Blockbench-darkblue?style=for-the-badge&logo=blockbench) ![obsidian](https://img.shields.io/badge/obsidian-%237C3AED?style=for-the-badge&logo=obsidian)
 
 </details>
 
 
 <details>
   <summary><b>Skills</b></summary>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
+  
+  ![Static Badge](https://img.shields.io/badge/llamacpp-gray?style=flat-square&logoColor=white)
+  ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000)
   ![end](https://img.shields.io/badge/Unity-gray?style=flat-square&logo=unity&logoColor=white)
    ![end](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
    ![end](https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=godotengine&logoColor=white)
